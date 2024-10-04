@@ -2,3 +2,6 @@ scrap/
 *[^a-zA-Z]scrap[^a-zA-Z]*
 *scrap[^a-zA-Z]*
 *[^a-zA-Z]*scrap
+benchmark
+*competitor*
+* copy*
